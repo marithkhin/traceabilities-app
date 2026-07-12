@@ -1,0 +1,6 @@
+{
+  "name": "NormCashew",
+  "description": "Cambodia Cashew Trade Rail - A platform connecting farmers, aggregators, and buyers across the cashew value chain.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

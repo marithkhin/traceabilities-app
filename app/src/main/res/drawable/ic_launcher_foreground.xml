@@ -1,0 +1,38 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Beautiful stylized agricultural gold plant structure -->
+    <path
+        android:fillColor="#D4AF37"
+        android:pathData="M54,20 C42,32 34,44 34,60 C34,71 43,80 54,80 C65,80 74,71 74,60 C74,44 66,32 54,20 Z" />
+    <path
+        android:fillColor="#FAF7F0"
+        android:pathData="M54,20 C54,35 48,50 38,62 C43,74 54,78 54,78 C54,78 65,74 70,62 C60,50 54,35 54,20 Z" />
+    <path
+        android:strokeColor="#FAF7F0"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M54,20 L54,76" />
+    <path
+        android:strokeColor="#FAF7F0"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M54,38 L62,44" />
+    <path
+        android:strokeColor="#FAF7F0"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M54,46 L44,52" />
+    <path
+        android:strokeColor="#FAF7F0"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M54,54 L64,60" />
+    <path
+        android:strokeColor="#FAF7F0"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M54,62 L46,68" />
+</vector>
